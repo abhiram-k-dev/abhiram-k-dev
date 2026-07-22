@@ -1,7 +1,7 @@
 [![header banner](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Abhiram%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Generative%20AI%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18)](https://github.com/abhiram-k-dev)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Building+AI+agents+that+understand+documents;LLM-powered+apps+with+Gemini+%2B+LLaMA;Computer+Vision+%2B+OCR+%2B+Full-Stack+Dev;B.Tech+CS+(AI+%26+ML)+%7C+CGPA+7.7%2F10" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=B.Tech+CS+(AI+%26+ML)+%7C+CGPA+7.7%2F10;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
