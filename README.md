@@ -70,12 +70,15 @@
 
 ---
 
+### 📊 GitHub Activity & Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiram-k-dev&show_icons=true&theme=radical&hide_border=true&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiram-k-dev&show_icons=true&theme=radical&hide_border=true&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=abhiram-k-dev&theme=radical&hide_border=true&background=0d1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=c9d1d9" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiram-k-dev&theme=radical&hide_border=true&background=0d1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=c9d1d9" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram-k-dev&layout=compact&theme=radical&hide_border=true&title_color=8E2DE2&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 [![footer banner](https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer)](https://github.com/abhiram-k-dev)
